@@ -21,7 +21,7 @@ Slogan : **Morning coffee • Lunch • Cocktails & Tapas**.
 ## Structure
 
 ```
-kiki-site/
+kiki_rouen/
   public/
     images/              # Visuels
   src/
