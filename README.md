@@ -8,7 +8,7 @@ Slogan : **Morning coffee • Lunch • Cocktails & Tapas**.
 1. **Prérequis** : Node.js 18+ et npm.
 2. Dézippez puis ouvrez le dossier dans votre terminal :
    ```bash
-   cd kiki-site
+   cd kiki_rouen
    npm install
    npm run dev
    ```
